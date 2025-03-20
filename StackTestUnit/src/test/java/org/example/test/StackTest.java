@@ -14,6 +14,12 @@ public class StackTest {
      Assert.assertTrue(stack.isEmpty());
     }
 
+
+
+
+
+    
+
     @Test
     public void should_not_be_empty_after_a_push(){
         stack.push(0);
